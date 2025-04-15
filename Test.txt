@@ -1,3 +1,1 @@
-
-city =TRICHY
-
+city =covai
