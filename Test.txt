@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 city =covai
+=======
+city = CHENNAI
+>>>>>>> branch1
